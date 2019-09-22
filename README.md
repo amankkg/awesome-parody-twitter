@@ -15,3 +15,5 @@ A curated list of twitter parody accounts 🐓
 * [Hipster Hacker](https://twitter.com/hipsterhacker)
 * [DevOps Borat](https://twitter.com/DEVOPS_BORAT)
 * [. (`@cloud_opinion`)](https://twitter.com/cloud_opinion)
+* [I Am Devloper](https://twitter.com/iamdevloper)
+* [50 Nerds of Grey](https://twitter.com/50NerdsofGrey)
